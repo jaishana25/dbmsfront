@@ -19,22 +19,24 @@ function PropertyForm() {
             
         </input>
 
-        <input type='text2' placeholder='Enter Position' name='position'>
+        <input type='text2' placeholder='Rooms' name='Rooms'>
             
             </input>
     </div>
     <div>
-        <input type='text3' placeholder='Sex' name='sex'>
+        <input type='text3' placeholder='Rent' name='rent'>
             
         </input>
 
-        <input type= 'date' placeholder='Date of birth' name='dob'>
-        </input>
+       
     </div>
     <div>
-        <input type='text2'  placeholder=' Salary' name='salary'>
+        <input type='text'  placeholder='Address' name='salary'>
 
         </input>
+        <input type='text'  placeholder='Address' name='salary'>
+
+</input>
     </div>
     <div>
         <input type='text3' placeholder='Branch Number' name='brno'>
