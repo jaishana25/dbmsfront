@@ -36,14 +36,7 @@ function ClientForm() {
 
         </input>
     </div>
-    <div>
-        <input type='text3' placeholder='Branch Number' name='brno'>
-
-        </input>
-        
-       
-        
-    </div>
+    
     <div>
     <input type='text' placeholder='Branch Address' name='address'>
 
